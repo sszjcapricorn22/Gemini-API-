@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="@dimen/_16dp"
+    android:orientation="vertical"
+    android:paddingEnd="@dimen/_100dp">
+
+    <TextView
+        android:id="@+id/response_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/gray"
+        android:padding="@dimen/_16dp"
+        android:textColor="@color/black"
+        android:textIsSelectable="true"
+        android:textSize="@dimen/_17sp"
+        />
+</LinearLayout>

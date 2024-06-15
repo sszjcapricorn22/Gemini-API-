@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GEMINI API</string>
+    <string name="type_a_prompt">Type a prompt</string>
+</resources>
